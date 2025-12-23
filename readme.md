@@ -51,7 +51,7 @@ Para executar este roadmap, os conhecimentos base são:
 
 - **Lógica de Programação** | Avançado
 - **Estrutura de Dados** | Intermediário
-- **Análise de Dados (Pandas/NumPy)** | Básico
+- **Análise de Dados** | Intermediário
 - **Estatística Descritiva** | Básico
 
 ## 🛠️ Habilidades e Sub-habilidades desenvolvidas neste conteúdo
