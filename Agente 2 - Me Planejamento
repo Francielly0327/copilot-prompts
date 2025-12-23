@@ -1,0 +1,78 @@
+# 🤖 Trilha de Especialização: Machine Learning Engineer
+
+Este repositório contém o meu planejamento estratégico e técnico para a transição de carreira rumo à Engenharia de Machine Learning, com foco em inteligência artificial e produtos digitais.
+
+---
+
+## 🧩 Visão do Dia a Dia
+*O que busco realizar como ML Engineer:*
+* **Data Prep:** Coletar e preparar dados para treinar modelos robustos.
+* **Modelagem:** Implementar algoritmos de aprendizado de máquina.
+* **Otimização:** Ajustar hiperparâmetros para máxima performance.
+* **Integração:** Conectar modelos a ecossistemas Web, Mobile e Cloud.
+* **Colaboração:** Atuar entre Cientistas de Dados e Devs para produção.
+
+---
+
+## 🧠 Mapa de Skills
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
+### Core Skills (Essenciais)
+- [ ] Programação em **Python** (NumPy, Pandas, Scikit-learn)
+- [ ] Fundamentos de **ML** (Regressão, Classificação, Clustering)
+- [ ] Estatística e Probabilidade Aplicadas
+- [ ] Pré-processamento e Engenharia de Dados
+
+### Nice-to-Have (Complementares)
+- [ ] Deep Learning (TensorFlow/PyTorch)
+- [ ] Deploy de Modelos (APIs, Docker, Cloud)
+
+---
+
+## 📅 Roadmap de 90 Dias (16h/semana)
+
+### 🗓️ Mês 1: Fundamentos
+- [ ] **Semana 1-2:** Revisão de Python para dados + Estatística básica (média, variância, distribuições).
+- [ ] **Semana 3-4:** Introdução ao ML: Regressão Linear e Logística. Prática com datasets (Iris, Titanic).
+
+### 🗓️ Mês 2: Prática
+- [ ] **Semana 5-6:** Algoritmos de Classificação e Clustering (KNN, Decision Trees, K-means).
+- [ ] **Semana 7-8:** Deep Learning: Criar uma rede neural simples para classificação de imagens.
+
+### 🗓️ Mês 3: Portfólio e Preparação
+- [ ] **Semana 9-10:** Desenvolvimento do Projeto Principal e documentação.
+- [ ] **Semana 11-12:** Preparação para entrevistas e publicação no LinkedIn/GitHub.
+
+---
+
+## 🚀 Projeto de Portfólio em Destaque
+**Projeto:** Classificador de Imagens para Jogos Mobile  
+**Objetivo:** Criar um modelo que reconheça personagens ou elementos de jogos mobile.
+
+**Entregáveis:**
+1.  **Notebook:** Código limpo, comentado e explicativo.
+2.  **Relatório:** Análise do dataset, escolha do modelo e métricas.
+3.  **API:** Deploy simples usando Flask ou FastAPI para testar o modelo.
+
+---
+
+## 💬 Guia de Entrevistas (Quick Study)
+> **P: O que é overfitting?** > *R: Quando o modelo "decora" o treino e não generaliza para dados novos.*
+>
+> **P: Regressão vs Classificação?** > *R: Regressão prevê números (preços); Classificação prevê categorias (gato/cachorro).*
+>
+> **P: Como lidar com dados faltantes?** > *R: Imputação (preencher com média/mediana), remoção ou modelos robustos.*
+
+---
+
+## 🎓 Formação Acadêmica & Cursos
+* **Graduação:** Análise e Desenvolvimento de Sistemas (ADS)
+* **Trilha Atual:** [Machine Learning Specialist - DIO](https://www.dio.me)
+
+---
+_“O sucesso é a soma de pequenos esforços repetidos dia após dia.”_
