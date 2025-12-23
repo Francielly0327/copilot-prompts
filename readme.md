@@ -49,10 +49,10 @@ O objetivo central deste planejamento é consolidar minha transição para a car
 
 Para executar este roadmap, os conhecimentos base são:
 
-- **Lógica de Programação** | Avançado
-- **Estrutura de Dados** | Intermediário
-- **Análise de Dados** | Intermediário
-- **Estatística Descritiva** | Básico
+- **Lógica de Programação** 
+- **Estrutura de Dados** 
+- **Análise de Dados** 
+- **Noções básicas sobre funcionamento e aplicações da inteligência artificial**
 
 ## 🛠️ Habilidades e Sub-habilidades desenvolvidas neste conteúdo
 
